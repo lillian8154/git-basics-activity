@@ -2,7 +2,11 @@
 #define __SYSTEM_H_
 
 // KEY
+<<<<<<< HEAD
 #define KEY_BASE 0x3030
+=======
+#define KEY_BASE 0x3040
+>>>>>>> main
 #define KEY_IRQ 0
 #define KEY_IRQ_INTERRUPT_CONTROLLER_ID 0
 // LEDR
